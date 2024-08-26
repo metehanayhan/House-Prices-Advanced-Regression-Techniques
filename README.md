@@ -1,0 +1,2 @@
+# House-Prices-Advanced-Regression-Techniques
+ This project aims to predict house prices in Ames, Iowa, using advanced machine learning techniques. The dataset from Kaggle is used to build a model that estimates house prices using regression algorithms such as Gradient Boosting and Random Forest. The project involves data cleaning, feature engineering, and model evaluation with the Root Mean Squared Error (RMSE) metric. The model's predictions are evaluated and submitted in a format suitable for Kaggle competitions.
